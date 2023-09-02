@@ -1,0 +1,11 @@
+baseURL = 'https://recipes.arvaid.net/'
+DefaultContentLanguage = "hu"
+title = 'Receptek'
+# theme = "nyum"
+enableGitInfo = true
+
+[outputs]
+    home  = [ "HTML", "JSON"]
+
+[taxonomies]
+  category = "categories"

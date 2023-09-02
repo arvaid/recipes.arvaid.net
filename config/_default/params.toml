@@ -1,0 +1,3 @@
+show_images_on_index = false
+sep = ' · '
+github_url = "https://github.com/arvaid/recipes.arvaid.net"
