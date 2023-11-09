@@ -27,5 +27,5 @@ favorite: false
 * olaj
 * alma- vagy balzsamecet
 
->A bacont felhevített olajban elkezdem kisütni és hozzáadom a köménymagot. Miután kipattogott, belerakom a lisztet. A lepirított liszthez mehet a fokhagymapor és a pirospaprika. Felöntöm vízzel, és beleteszem a babérlevelet, sót, borsot és az őrölt köményt. A tojást csak kicsit verjük fel. Amikor felforrt a leves, alacsonyabb lángra veszem és óvatosan belecsorgatom a tojást. A lángot visszaveszem magasra és még 2-3 percig főzőm. Végül valamilyen enyhébb ecetből (alma- vagy balzsam-) pár csepp kerül bele.
+>A bacont felhevített olajban elkezdem kisütni a hagymával és hozzáadom a köménymagot. Miután kipattogott, belerakom a lisztet. A lepirított liszthez mehet a fokhagymapor és a pirospaprika. Felöntöm vízzel, és beleteszem a babérlevelet, sót, borsot és az őrölt köményt. A tojást csak kicsit verjük fel. Amikor felforrt a leves, alacsonyabb lángra veszem és óvatosan belecsorgatom a tojást. A lángot visszaveszem magasra és még 2-3 percig főzőm. Végül valamilyen enyhébb ecetből (alma- vagy balzsam-) pár csepp kerül bele.
 
