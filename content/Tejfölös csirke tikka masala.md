@@ -1,6 +1,7 @@
 ---
 title: Tejfölös csirke tikka masala
 description: ''
+categories: ['főételek']
 image: https://static.streetkitchen.hu/live/uploads/2023/06/tejfolos-tikka-massala-4-scaled.jpg
 author:  Szántóy Domonkos
 source: https://streetkitchen.hu/hust-hussal/tejfolos-csirke-tikka-masala-recept/

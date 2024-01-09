@@ -2,6 +2,7 @@
 title: Tozskán csirke
 original_title: 
 description: 
+categories: ['főételek']
 image: 
 size:
 time: 

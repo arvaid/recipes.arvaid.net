@@ -13,31 +13,33 @@ draft: false
 ---
 
 - `1,5 ek` zsír
-- `kis db` szalonna 
+- `kis db` szalonna
 - `3 gerezd` fokhagyma
 - `2-3 db` hagyma
 - `2-4 db` babérlevél
 
-> Zsírt melegítünk egy nagyobb lábasban, és elkezdjük pirítani benne a szalonnát és a hagymát. Hozzáadjuk a babérlevelet, az egész fokhagymát, és tovább pirítjuk, míg össze nem esik a hagyma. 
+> Zsírt melegítünk egy nagyobb lábasban, és elkezdjük pirítani benne a szalonnát és a hagymát. Hozzáadjuk a babérlevelet, az egész fokhagymát, és tovább pirítjuk, míg össze nem esik a hagyma.
 
 ---
 
-- `fél db` paprika 
+- `fél db` paprika
 - `1 db` paradicsom
 - `1 tk` paracsom sűrítmény
 - `1 ek` Piros Arany
 - `1 mk` Erős Pista
 - `1 tk` hagymakrém
-- `1 tk` fokhagymakrém 
+- `1 tk` fokhagymakrém
+
 > Beletesszük az apró kockákra vágott paradicsomot, a szintén felkockázott paprikát. Hozzáadjuk a Piros Aranyat, a paracsom sűrítményt, az Erős Pistát, a hagyma- és fokhagymakrémet, majd alaposan összekeverjük.
 
 ---
+
 - `1 db` csülök
 - `3 mk` fűszerpaprika
 - só, bors
 - víz
 
-> A kb 2 x 2 cm-es kockákra vágott csülköt az alaphoz tesszük és lepirítjuk. Ezután felöntjük annyi vízzel, hogy éppen ellepje a húst. Jöhet hozzá a fűszerpaprika illetve ízlés szerint sózzuk és borsozzuk. 
+> A kb 2 x 2 cm-es kockákra vágott csülköt az alaphoz tesszük és lepirítjuk. Ezután felöntjük annyi vízzel, hogy éppen ellepje a húst. Jöhet hozzá a fűszerpaprika illetve ízlés szerint sózzuk és borsozzuk.
 
 ---
 
@@ -46,4 +48,3 @@ draft: false
 ---
 
 > Krumplival, savanyúsággal és igény szerint friss kenyérrel tálaljuk.
-
