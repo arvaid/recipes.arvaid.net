@@ -59,7 +59,7 @@ Adjuk hozzá a tofut, és lassú tűzön pároljuk 5 percig.
 
 ---
 
-- `1 ek` kukoricakeményítőből
+- `1 ek` kukoricakeményítő
 - `50 ml` víz
 - `pár csepp` szezámolaj
 
