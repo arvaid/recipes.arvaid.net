@@ -1,55 +1,76 @@
 ---
-title: 30 perces vega ramen
-category: Levesek
-categories: ['Levesek']
+title: Katsu curry
+category: Főételek
+categories: ['Főételek']
 description: ''
-image: https://static.streetkitchen.hu/test/uploads/2023/03/30-perces-vega-ramen-1-scaled.jpg
-author: Horváth Ádám
-source: https://streetkitchen.hu/fitt/vega-kajak/30-perces-vega-ramen/
-veggie: true
+image: 
+author: Aaron & Claire
+source: https://aaronandclaire.com/katsu-curry-japanese-curry-with-chicken-cutlet-recipe/
+veggie: false
 draft: false
+size: 10 fő
 ---
 
-- `200 g` sárgarépa
-- `180 g` shiitake gomba
-- `4 szál` újhagyma
-- `300 g` tofu
-- `2 db` pak choi
-- `3 ek` kókuszolaj
+
+- `4 fej` vöröshagyma
+- `200 g` répa
+- `3 db` sárga burgonya
+
+> Vékonyra szeleteljük a hagymát. Vágjuk fel a sárgarépát és a burgonyát.
+
+---
+
+- `4 ek.` olaj
+
+> Egy edényben közepes lángon hevítsük fel az olajat (3 evőkanál). Amint szépen felforrósodott, adjuk hozzá a hagymát, és pároljuk 40 percig, vagy amíg mélyen karamellizálódik.
+> Közben egy másik wokban (vagy serpenyőben) melegítsünk fel olajat (1 evőkanál) közepes lángon. Amint felforrósodott, adjuk hozzá a sárgarépát és a burgonyát. Főzzük 10 percig, vagy amíg aranybarna nem lesz. Tegyük félre.
+
+---
+
+- `3 ek.` sűrített paradicsom
+- `1 ek.` őrölt kömény
+- `1,920 ml` víz
+- `1.5 ek.` csirkepor
+- `1 ek.` szójaszósz
+- `1 ek.` Worcester szósz
+- `1 cs./220g` golden curry
+- `2 ek. / 28 g` sózatlan vaj
+
+> Amint a hagyma mélyen karamellizálódott, adjuk hozzá a paradicsompürét és a köményt. Keverjük össze 1 percig. Adjunk hozzá a vizet, a csirkelevesport, a szójaszószt, a Worcestershire-szószt, a burgonyát és a sárgarépát. Keverjük össze. Pároljuk lefedve 30 percig közepesen alacsony hőfokon.
+
+---
+
+> Vegyük le a tűzről. Adjuk hozzá a curryt és a vajat. Addig keverjük, amíg jól összeáll. Botmixerrel homogénre turmixoljuk.
+
+---
+
+> Tegyük enyhe tűzre. Amint újra felforrt, tegyük félre, és tartsuk melegen tálalásig.
+
+---
+
+- `4 db` csirkemell/comb
 - `2 db` tojás
-- `4 cm` friss gyömbér
-- `6 ek` szójaszósz
-- `2 ek` rizsecet
-- só, bors
-- `1 tk` chilipehely
-- `1.8 l` zöldségalaplé
-- `260 g` ramentészta
-- `1 db` lime
-- `0.5` csokor koriander
-- `1 db` friss chili
+- liszt
+- panko morzsa
+- olaj
 
-> A vega ramen első lépéseként előkészítjük a zöldségeket és a tofut a leveshez. A répát vékony csíkokra vágjuk, a gombát felszeleteljük, az újhagymát felkarikázzuk, a tofut viszonylag nagyobb kockákra vágjuk, a pak choit pedig félbevágjuk.
+> Műanyag zacskóban kiklopfoljuk a húst. Ismételjük meg ezt a többi csirkemellel. Mindkét oldalát megsózzuk-borsozzuk.
 
 ---
 
-> Egy nagyon forró serpenyőben, egy csepp kókuszolajon megkapatjuk a félbevágott pak choit, egy-két helyen kissé megégetve, majd félretesszük.
+> Panírozzuk be a csirkemellet.
 
 ---
 
-> Lassan lobogó vízben 6,5 perc alatt megfőzzük a tojásokat. Ez idő alatt tökéletesen folyósra készül a sárgájuk. Fontos, hogy utána jeges vízbe dobjuk őket, hogy ne készüljenek tovább a hőtől.
+> Süssük a húst 170 °C-os olajban 6-8 percig.
 
 ---
 
-> Egy lábasban kókuszolajat hevítünk, beledobjuk a felcsíkozott répákat, a gombát és a tofut, majd magas hőfokon elkezdjük jól lepirítani. Néha megrázogatjuk a lábast vagy óvatosan megkevergetjük, hogy a tofukockák ne törjenek szét. Addig pirítjuk, míg szép aranybarnák lesznek az alapanyagok. Ekkor belereszelünk egy jó adag friss gyömbért és hozzáadjuk a felkarikázott újhagymát, 1-2 percig még pirítjuk, majd felöntjük a szójaszósszal, a rizsecettel és fűszerezzük. Ezután mehet rá a zöldségalaplé, és kb. 8 percig főzzük.
+> Ha a csirke ropogós aranybarnára sült, vegyük ki, és hagyjuk pihenni egy hűtőrácson. Ismételjük meg a maradék csirkével.
 
 ---
 
-> Közben forró vízbe dobjuk 2-3 percre a ramentésztát, leszűrjük és a leveshez adjuk. Megpucoljuk a tojásokat, amiket aztán félbe is vágunk óvatosan, hogy ne folyjon ki a sárgájuk. Durvára felaprítjuk a koriandert, és kimagozzuk, majd felaprítjuk a friss chilit is.
+- zöldhagyma
+- főtt rizs
 
----
-
-> Mikor kész a leves, hozzadjuk a lime levét, a friss koriandert és a chilit, és beledobjuk a félrerakott pak choit is.
-
----
-
-> Jöhet is a tálalás: egy adaghoz fél pak choi és fél tojás jár, de a tojásból természetesen annyit raktok hozzá, amennyit nem szégyelltek. A végén még meg lehet locsolni kevés lime-lével és megszórni frissen őrölt chilivel. Jó étvágyat!
+> Tálaláshoz felszeletelünk néhány szál zöldhagymát. A rizsre ráöntjük a curryt, majd a húst felszeletelve rátesszük, majd megszórjuk a zöldhagymával.
