@@ -1,6 +1,6 @@
 ---
 title: Gombaleves (Zé)
-original_title: Tejfölös gombaleves krumpligombóccal
+original_title: 
 categories: ['levesek'] 
 description: 
 image: 
