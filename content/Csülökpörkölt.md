@@ -30,7 +30,7 @@ draft: false
 - `1 tk` hagymakrém
 - `1 tk` fokhagymakrém
 
-> Beletesszük az apró kockákra vágott paradicsomot, a szintén felkockázott paprikát. Hozzáadjuk a Piros Aranyat, a paracsom sűrítményt, az Erős Pistát, a hagyma- és fokhagymakrémet, majd alaposan összekeverjük.
+> Beletesszük az apró kockákra vágott paradicsomot, a szintén felkockázott paprikát. Hozzáadjuk a Piros Aranyat, a paradicsom sűrítményt, az Erős Pistát, a hagyma- és fokhagymakrémet, majd alaposan összekeverjük.
 
 ---
 
