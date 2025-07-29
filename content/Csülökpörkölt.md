@@ -24,7 +24,7 @@ draft: false
 
 - `fél db` paprika
 - `1 db` paradicsom
-- `1 tk` paradicsom sűrítmény
+- `1 tk` par. sűrítmény
 - `1 ek` Piros Arany
 - `1 mk` Erős Pista
 - `1 tk` hagymakrém
